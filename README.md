@@ -1,16 +1,14 @@
-### Hi there 👋
+# Jaqueline Siqueira 👩‍💻
 
-<!--
-**jsiqueiras/jsiqueiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalhando em: [Universidade da Família](www.udf.org.br)
+- 🏅 Formação: Bacharel em Sistema de Informação e cursando Pós graduação em Segurança da Informação.
+- 🌱 Aprendendo: <b>Segurança da Informação, Linux </b><b>and Direito Digital. </b>
+- 🤔 Ajuda com: <b>Segurança da Informação, Linux, Infraestrutura </b>
+- 💬 Sobre mim: Profissional com de 4 anos de experiência na área de TI, suporte, infraestrutura e iniciando carreira na área de Segurança da Informação. 
+- 📈 Conhecimento em Sistemas (Windows/Linux), redes, Segurança da informação, CyberSecurity e LGPD.
+- 📖 Hobby: Leitura, tocar violão, estudar e jogar
+
+
