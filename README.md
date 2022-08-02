@@ -1,5 +1,8 @@
 # Jaqueline Siqueira 👩‍💻
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaqueline-siqueira-389bb8137/)](https://www.linkedin.com/in/jaqueline-siqueira-389bb8137/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaque.siqueira.silva@gmail.com)](mailto:jaque.siqueira.silva@gmail.com)
+
 #### Hi there 👋
 
 
@@ -9,6 +12,6 @@
 - 🤔 Ajuda com: <b>Segurança da Informação, Linux, Infraestrutura </b>
 - 💬 Sobre mim: Profissional com de 4 anos de experiência na área de TI, suporte, infraestrutura e iniciando carreira na área de Segurança da Informação
 - 📈 Conhecimento em Sistemas (Windows/Linux), redes, Segurança da informação, CyberSecurity e LGPD
-- 📖 Hobby: Leitura, tocar violão, estudar e jogar
+- 📖 Interesses: Cristã, Leitura, jogar, tocar violão, estudar e ver o <green><b>Palmeiras jogar</b></green>
 
 
