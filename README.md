@@ -10,7 +10,7 @@
 - 🏅 Formação: <b>Bacharel em Sistema de Informação e cursando Pós graduação em Segurança da Informação</b>
 - 🌱 Aprendendo: <b>Segurança da Informação, Linux </b><b>and Direito Digital. </b>
 - 🤔 Ajuda com: <b>Segurança da Informação, Linux, Infraestrutura </b>
-- 💬 Sobre mim: <b>Profissional com de 4 anos de experiência na área de TI, suporte, infraestrutura e iniciando carreira na área de Segurança da Informação</b>
+- 💬 Sobre mim: <b>Profissional com mais de 3 anos de experiência na área de TI, suporte, infraestrutura e iniciando carreira na área de Segurança da Informação</b>
 - 📈 Conhecimento em: <b>Hardware, Sistemas (Windows/Linux), redes, Segurança da informação, CyberSecurity e LGPD</b>
 - 📖 Interesses: <b>Leitura, jogar, tocar violão, estudar e ver o Palmeiras jogar</b>
 
