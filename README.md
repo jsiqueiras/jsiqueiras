@@ -1,7 +1,7 @@
 # Jaqueline Siqueira 👩‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaqueline-siqueira-389bb8137/)](https://www.linkedin.com/in/jaqueline-siqueira-389bb8137/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaque.siqueira.silva@gmail.com)](mailto:jaque.siqueira.silva@gmail.com)
+
 
 #### Hi there 👋
 
